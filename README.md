@@ -1,9 +1,8 @@
 # EmberCraft Studio Website
 ST10463664 Pretext Mina Mkhondo
-A website project for EmberCraft Studio, a small candle business in Pretoria, built as part of the WEDE5020 (Web Development - Introduction) Portfolio of Evidence.
 
 ## Project Overview
-This is the website for EmberCraft Studio, a small candle business run out of a home studio in Pretoria. The site covers what the studio does, the candle ranges on offer, and gives people a way to book a workshop spot or ask a question — built as Part 1 of the WEDE5020 (Web Development - Introduction) Portfolio of Evidence, with CSS styling and JavaScript functionality to follow in Parts 2 and 3.
+This is the website for EmberCraft Studio, a small candle business run out of a home studio in Pretoria. The site covers what the studio does, the candle ranges on offer, and gives people a way to book a workshop spot or ask a question — built as Part 1 of the WEDE5020 (Web Development - Introduction) Portfolio of Evidence.
 
 ## Sitemap
 
