@@ -1,8 +1,9 @@
 # EmberCraft Studio Website
-ST10463664 Pretext Mina Mkhondo
+
+A website project for EmberCraft Studio, a small candle business in Pretoria, built as part of the WEDE5020 (Web Development - Introduction) Portfolio of Evidence.
 
 ## Project Overview
-This is the website for EmberCraft Studio, a small candle business run out of a home studio in Pretoria. The site covers what the studio does, the candle ranges on offer, and gives people a way to book a workshop spot or ask a question — built as Part 1 of the WEDE5020 (Web Development - Introduction) Portfolio of Evidence.
+This is the website for EmberCraft Studio, a small candle business run out of a home studio in Pretoria. The site covers what the studio does, the candle ranges on offer, and gives people a way to book a workshop spot or ask a question — built as Part 1 of the WEDE5020 (Web Development - Introduction) Portfolio of Evidence, with CSS styling and JavaScript functionality to follow in Parts 2 and 3.
 
 ## Sitemap
 
@@ -25,6 +26,8 @@ Homepage (index.html)
 - 2026-08-11: Re-cropped hero image to a proper landscape banner ratio; added CSS so all product images display at a consistent size in the grid.
 - 2026-08-11: Reverted hero image to the full, uncropped photo per request — resized only, nothing cut off.
 - 2026-08-11: Added explanatory code comments across all 5 HTML files (header/nav, hero, forms, product cards, locations).
+- 2026-08-11: Set logo width to 200px (height scales automatically to keep proportions).
+- 2026-08-11: Rewrote all page copy (Homepage, About, Products, Enquiry) in a more formal, professional tone.
 
 ## References
 Azimova, K., n.d. Photograph of a sandalwood scented candle. Unsplash. [Online] Available at: https://unsplash.com/photos/-3X3VfBODGA [Accessed 7 August 2026]. (Used as the product image for Firelight Grove.)
