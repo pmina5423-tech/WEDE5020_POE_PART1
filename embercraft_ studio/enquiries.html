@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EmberCraft Studio | Enquiry</title>
+    <meta name="description" content="Book a workshop or ask about EmberCraft Studio's candles.">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Header and navigation: identical markup repeated on every page so the menu stays consistent site-wide -->
+    <header>
+        <a href="index.html"><img src="_images/logo.png" alt="EmberCraft Studio - Handmade Soy Candles, Est. 2023" class="logo-img" width="350"></a>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="enquiry-form">
+            <h2>Book a Workshop or Ask a Question</h2>
+            <p>Whether you would like to book a workshop or enquire about a product, please complete the form below. We aim to respond to all enquiries within one to two business days.</p>
+
+            <!-- Enquiry form: required fields use the HTML5 "required" attribute for client-side validation -->
+            <form action="#" method="post">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="enquiry-type">Enquiry Type:</label>
+                <select id="enquiry-type" name="enquiry-type">
+                    <option value="workshop">Workshop Booking</option>
+                    <option value="product">Product Enquiry</option>
+                    <option value="gift">Gift / Gift Set Enquiry</option>
+                    <option value="other">Other</option>
+                </select>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Send Enquiry</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer: repeated on every page -->
+    <footer>
+        <p>&copy; 2026 EmberCraft Studio. All rights reserved.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
